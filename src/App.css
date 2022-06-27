@@ -97,12 +97,14 @@ button:hover{
 
 @media screen and (max-width: 768px) {
   .App{
-    height: 650px;
+    height:100%;
   }
 
   .quoteBox{
     height: 420px;
     width: 280px;
+    margin-top: 110px;
+    margin-bottom: 110px;
   }
   .quoteN{
     width: 250px;

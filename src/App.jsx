@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import quotes from "./quotes.json";
-import QuoteBox from "./components/QuoteBox"
+import QuoteBox from "./components/QuoteBox";
 
 function App() {
 
